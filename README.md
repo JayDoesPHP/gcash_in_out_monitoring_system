@@ -1,3 +1,4 @@
+![cash in   out monitoring](https://github.com/user-attachments/assets/ecd39340-1f42-42b9-8e78-559ab4ae8308)
 # GCash In & Out Monitoring System
 
 A simple GCash & Cash balance monitoring system built using **HTML**, **Bootstrap**, and **vanilla JS**
